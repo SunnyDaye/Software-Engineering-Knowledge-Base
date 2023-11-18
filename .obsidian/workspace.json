@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eda1b5ac8f5a2723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering Concepts/Version Control/Git/What is Git and how does it work?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering Concepts/Version Control/Version Control Overview.md",
+                "file": "Software Engineering Concepts/Version Control/Git/What is Git and how does it work?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering Concepts/Version Control/Version Control Overview.md",
+                "file": "Software Engineering Concepts/Version Control/Git/What is Git and how does it work?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering Concepts/Version Control/Version Control Overview.md"
+                "file": "Software Engineering Concepts/Version Control/Git/What is Git and how does it work?.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6611a549e1f425bd",
+  "active": "eda1b5ac8f5a2723",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Software Engineering Concepts/Version Control/Version Control Overview.md",
+    "Software Engineering Concepts/Version Control/Git/What is Git and how does it work?.md",
+    "Untitled.canvas",
     "Programming Languages/Python/Core Foundation/How is Python compiled.md",
     "README.md",
     "Computer Science/Algorithms",

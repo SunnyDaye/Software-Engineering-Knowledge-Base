@@ -20,5 +20,6 @@ DVCSs have a server or servers that each client's computer communicates with. Ea
 - easy to back up any failed remote repos
 #### Cons
 - concepts related to distributed systems such as merge conflicts have a high learning curve
+# What is the most commonly used DVCS today?
 
  
