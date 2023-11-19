@@ -18,3 +18,19 @@ Everything is Git is check-summed before it is stored and is then referred to by
 ## Generally only adds data
 As in most VCSs, you can lose or mess up changes you haven't committed; but after you commit a snapshot into Git, it is very difficult to lose, especially if you regularly push your database to another repository.
 ## Git and the file system
+There are three main states of a file inside of a git repository: modified, staged, and committed. A file is modified when the file has changed but the change is not tracked. A file is staged when the file has been flagged to be included in the next snapshot of the repo. A file is committed when the file's data has been safely stored in git's local database. This implies 3 main sections of a git project.
+### The sections of a git project
+#### .git directory
+The git directory is where Git stores the metadata and object database for your project. The git directory is the most important part of a git project. The git directory is what is copied when you clone a repo.
+
+#### Working directory
+The working directory is a single checkout of one version of the project. These files are pulled out of the compressed database in the Git directory and placed on disk for you to use or modify.
+
+#### Staging area
+The staging are is a file, generally contained in you git directory, that stores information about what will go into your next commit.
+### Git project workflow
+1. You checkout a specific version of your git project
+2. You modify files in your working directory
+3. You stage the files, adding snapshots of them to your staging area
+4.  You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your Git directory
+
