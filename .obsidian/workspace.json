@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering Concepts/Version Control/Git/What is Git and how does it work?.md",
+                "file": "Software Engineering Concepts/Version Control/Git/What is Git and how does it work.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering Concepts/Version Control/Git/What is Git and how does it work?.md",
+                "file": "Software Engineering Concepts/Version Control/Git/What is Git and how does it work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering Concepts/Version Control/Git/What is Git and how does it work?.md",
+                "file": "Software Engineering Concepts/Version Control/Git/What is Git and how does it work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering Concepts/Version Control/Git/What is Git and how does it work?.md"
+                "file": "Software Engineering Concepts/Version Control/Git/What is Git and how does it work.md"
               }
             }
           }
